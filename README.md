@@ -1,2 +1,2 @@
-# cubix-cloudnative-block1-git
-Cubix Cloud-native Application Development training - Git
+# Cubix Cloud-Native Application Development Training: Git with GUI
+Fork this repository for the practice session.
