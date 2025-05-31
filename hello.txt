@@ -2,4 +2,5 @@ Hello, here we will play a bit with Git!
 Now we are playing!
 This time from github in a browser.
 
+New with the new branch.
 We changed this in main branch.
